@@ -13,4 +13,4 @@ All of the information from my data science midterm project that analyzed data a
 ## Data Source:
 - [Kaggle - Pokemon data] link: https://www.kaggle.com/datasets/abcsds/pokemon
 
-![Figure 2_ Top 15 Pokemon Across All Stats (1).png](Figure 2_ Top 15 Pokemon Across All Stats (1).png)
+![my_plot](Figure 2_ Top 15 Pokemon Across All Stats (1).png)
