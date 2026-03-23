@@ -3,7 +3,7 @@ All of the information from my data science midterm project that analyzed data a
 
 ## Project Title: Pokemon: Data and Advantages
 ## Description: 
-- For this roject, I worked with my team to analyze a data set containing information about the first six generations of Pokemon.
+- For this project, I worked with my team to analyze a data set containing information about the first six generations of Pokemon.
 ## Questions:
 1. What is the relationship between a Pokémon's generation and total stats? Are newer generations stronger than older ones, or has the game stayed balanced over time?
 2. Are Pokémon with the highest total stats always the ones with the highest attack stat? Or do Pokémon tend to be balanced across all stats?
